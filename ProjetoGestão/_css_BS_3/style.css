@@ -1,0 +1,8 @@
+#main {
+    margin-top: 50px;
+  }
+  footer#footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+}
